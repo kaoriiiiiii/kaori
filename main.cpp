@@ -13,7 +13,7 @@ int check(char a[],int n)
         }
     }
     return flag;
-}
+}//hmmm
 void Try(int i,string a)
 {
     for(int j=0;j<a.length();j++)
